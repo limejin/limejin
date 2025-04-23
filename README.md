@@ -19,4 +19,4 @@ I'm a developer passionate about improving everyday services. I often think abou
 
 ### ☕ Get in touch
 
-- **[Personal Blog](https://limejin.github.io/)**
+- **[Personal Blog](https://velog.io/@limejin/posts)**
